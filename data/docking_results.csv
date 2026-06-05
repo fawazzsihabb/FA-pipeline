@@ -1,0 +1,25 @@
+rank,id,klass,affinity,lig_eff
+1,FA23,Benzoxazine derivative,-9.14,-0.397
+2,FA17,Cinnamic acid derivative,-8.85,-0.385
+3,FA18,Cinnamic acid derivative,-8.78,-0.382
+4,FA22,Benzoxazine derivative,-8.77,-0.439
+5,FA21,Benzoxazine derivative,-8.7,-0.458
+6,FA20,Benzoxazine derivative,-8.35,-0.464
+7,FA16,Cinnamic acid derivative,-8.33,-0.379
+8,FA19,Cinnamic acid derivative,-8.2,-0.342
+9,FA11,Cinnamic acid derivative,-8.06,-0.424
+10,FA15,Cinnamic acid derivative,-8.01,-0.382
+11,FA12,Cinnamic acid derivative,-7.89,-0.439
+12,FA14,Cinnamic acid derivative,-7.86,-0.393
+13,FA13,Cinnamic acid derivative,-7.8,-0.411
+14,FA10,Cinnamic acid derivative,-7.74,-0.455
+15,FA24,Benzoxazine derivative,-7.73,-0.322
+16,FA8,Cinnamic acid derivative,-7.45,-0.392
+17,FA6,Cinnamic acid derivative,-7.4,-0.435
+18,FA7,Cinnamic acid derivative,-7.37,-0.409
+19,FA9,Cinnamic acid derivative,-7.28,-0.455
+20,FA5,Cinnamic acid derivative,-7.18,-0.449
+21,FA2,Cinnamic acid derivative,-7.15,-0.55
+22,FA3,Cinnamic acid derivative,-7.07,-0.505
+23,FA4,Cinnamic acid derivative,-7.02,-0.468
+24,FA1,Hydrocinnamic acid derivative,-6.85,-0.489

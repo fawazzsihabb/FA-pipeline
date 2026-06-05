@@ -1,0 +1,25 @@
+id,name,klass,smiles
+FA23,FA23,Benzoxazine derivative,COc1cc(/C=C/C(=O)O)cc2c1OCN(c1ccccc1)C2
+FA21,FA21,Benzoxazine derivative,CCN1COc2c(cc(/C=C/C(=O)O)cc2OC)C1
+FA22,FA22,Benzoxazine derivative,CCCN1COc2c(cc(/C=C/C(=O)O)cc2OC)C1
+FA20,FA20,Benzoxazine derivative,COc1cc(/C=C/C(=O)O)cc2c1OCN(C)C2
+FA1,FA1,Hydrocinnamic acid derivative,COc1cc(CCC(=O)O)ccc1O
+FA3,FA3,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1O
+FA6,FA6,Cinnamic acid derivative,CCCOC(=O)/C=C/c1ccc(O)c(OC)c1
+FA5,FA5,Cinnamic acid derivative,CCOC(=O)/C=C/c1ccc(O)c(OC)c1
+FA4,FA4,Cinnamic acid derivative,COC(=O)/C=C/c1ccc(O)c(OC)c1
+FA9,FA9,Cinnamic acid derivative,COC(=O)/C=C/c1ccc(OC)c(OC)c1
+FA24,FA24,Benzoxazine derivative,COc1cc(/C=C/C(=O)O)cc2c1OCN(c1ccc(C)cc1)C2
+FA16,FA16,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1OC(=O)c1ccccc1
+FA18,FA18,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1OC(=O)c1ccc(C)cc1
+FA17,FA17,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1OC(=O)c1ccc(Cl)cc1
+FA19,FA19,Cinnamic acid derivative,COc1ccc(C(=O)Oc2ccc(/C=C/C(=O)O)cc2OC)cc1
+FA11,FA11,Cinnamic acid derivative,CC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC(C)=O
+FA10,FA10,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1OC(C)=O
+FA12,FA12,Cinnamic acid derivative,CCC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC
+FA13,FA13,Cinnamic acid derivative,CCCC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC
+FA7,FA7,Cinnamic acid derivative,CCCCOC(=O)/C=C/c1ccc(O)c(OC)c1
+FA14,FA14,Cinnamic acid derivative,CCCCC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC
+FA8,FA8,Cinnamic acid derivative,CCCCCOC(=O)/C=C/c1ccc(O)c(OC)c1
+FA15,FA15,Cinnamic acid derivative,CCCCCC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC
+FA2,FA2,Cinnamic acid derivative,O=C(O)/C=C/c1ccc(O)c(O)c1

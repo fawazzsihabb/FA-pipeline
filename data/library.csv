@@ -1,0 +1,25 @@
+id,klass,smiles
+FA1,Hydrocinnamic acid derivative,O=C(O)CCc1ccc(O)c(OC)c1
+FA2,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(O)c(O)c1
+FA3,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(O)c(OC)c1
+FA4,Cinnamic acid derivative,COC(=O)/C=C/c1ccc(O)c(OC)c1
+FA5,Cinnamic acid derivative,CCOC(=O)/C=C/c1ccc(O)c(OC)c1
+FA6,Cinnamic acid derivative,CCCOC(=O)/C=C/c1ccc(O)c(OC)c1
+FA7,Cinnamic acid derivative,CCCCOC(=O)/C=C/c1ccc(O)c(OC)c1
+FA8,Cinnamic acid derivative,CCCCCOC(=O)/C=C/c1ccc(O)c(OC)c1
+FA9,Cinnamic acid derivative,COC(=O)/C=C/c1ccc(OC)c(OC)c1
+FA10,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)C)c(OC)c1
+FA11,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)C)c(OC(=O)C)c1
+FA12,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)CC)c(OC)c1
+FA13,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)CCC)c(OC)c1
+FA14,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)CCCC)c(OC)c1
+FA15,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)CCCCC)c(OC)c1
+FA16,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)c2ccccc2)c(OC)c1
+FA17,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)c2ccc(Cl)cc2)c(OC)c1
+FA18,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)c2ccc(C)cc2)c(OC)c1
+FA19,Cinnamic acid derivative,OC(=O)/C=C/c1ccc(OC(=O)c2ccc(OC)cc2)c(OC)c1
+FA20,Benzoxazine derivative,O=C(O)/C=C/c1cc2c(c(OC)c1)OCN(C)C2
+FA21,Benzoxazine derivative,O=C(O)/C=C/c1cc2c(c(OC)c1)OCN(CC)C2
+FA22,Benzoxazine derivative,O=C(O)/C=C/c1cc2c(c(OC)c1)OCN(CCC)C2
+FA23,Benzoxazine derivative,O=C(O)/C=C/c1cc2c(c(OC)c1)OCN(c3ccccc3)C2
+FA24,Benzoxazine derivative,O=C(O)/C=C/c1cc2c(c(OC)c1)OCN(c3ccc(C)cc3)C2

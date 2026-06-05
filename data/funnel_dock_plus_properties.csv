@@ -1,0 +1,25 @@
+rank,id,klass,affinity,lig_eff,QED,SAscore,pass_prefilter
+1,FA23,Benzoxazine derivative,-9.14,-0.397,0.879,2.32,True
+2,FA17,Cinnamic acid derivative,-8.85,-0.385,0.514,1.85,True
+3,FA18,Cinnamic acid derivative,-8.78,-0.382,0.521,1.84,True
+4,FA22,Benzoxazine derivative,-8.77,-0.439,0.837,2.51,True
+5,FA21,Benzoxazine derivative,-8.7,-0.458,0.841,2.57,True
+6,FA20,Benzoxazine derivative,-8.35,-0.464,0.824,2.64,True
+7,FA16,Cinnamic acid derivative,-8.33,-0.379,0.522,1.79,True
+8,FA19,Cinnamic acid derivative,-8.2,-0.342,0.499,1.85,True
+9,FA11,Cinnamic acid derivative,-8.06,-0.424,0.505,2.1,True
+10,FA15,Cinnamic acid derivative,-8.01,-0.382,0.344,1.98,True
+11,FA12,Cinnamic acid derivative,-7.89,-0.439,0.492,2.0,True
+12,FA14,Cinnamic acid derivative,-7.86,-0.393,0.471,1.98,True
+13,FA13,Cinnamic acid derivative,-7.8,-0.411,0.485,2.0,True
+14,FA10,Cinnamic acid derivative,-7.74,-0.455,0.489,1.9,True
+15,FA24,Benzoxazine derivative,-7.73,-0.322,0.873,2.37,False
+16,FA8,Cinnamic acid derivative,-7.45,-0.392,0.467,1.96,True
+17,FA6,Cinnamic acid derivative,-7.4,-0.435,0.63,1.97,True
+18,FA7,Cinnamic acid derivative,-7.37,-0.409,0.479,1.96,True
+19,FA9,Cinnamic acid derivative,-7.28,-0.455,0.576,1.74,True
+20,FA5,Cinnamic acid derivative,-7.18,-0.449,0.625,1.89,True
+21,FA2,Cinnamic acid derivative,-7.15,-0.55,0.472,2.04,False
+22,FA3,Cinnamic acid derivative,-7.07,-0.505,0.715,1.87,True
+23,FA4,Cinnamic acid derivative,-7.02,-0.468,0.605,1.91,True
+24,FA1,Hydrocinnamic acid derivative,-6.85,-0.489,0.764,1.67,True

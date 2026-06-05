@@ -1,0 +1,9 @@
+# Core screening pipeline (src/)
+rdkit>=2024.3
+numpy
+pandas
+scikit-learn
+matplotlib
+reportlab
+# Docking notebooks additionally use: vina, meeko, gemmi, openbabel, requests, py3Dmol
+# ADMET notebook: admet_ai   |   QSAR notebook: requests (ChEMBL/PubChem REST)

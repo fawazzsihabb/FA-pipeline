@@ -1,0 +1,53 @@
+{
+  "n_library": 24,
+  "n_pass_prefilter": 22,
+  "n_fail_prefilter": 2,
+  "lead_id": "FA19",
+  "lead_rank_by_druglikeness": 15,
+  "lead_QED": 0.499,
+  "lead_SAscore": 1.85,
+  "lead_Lipinski_violations": 0,
+  "lead_passes_prefilter": true,
+  "top5": [
+    {
+      "rank": 1,
+      "id": "FA23",
+      "name": "FA23",
+      "DrugLikeScore": 0.889,
+      "QED": 0.879,
+      "SAscore": 2.32
+    },
+    {
+      "rank": 2,
+      "id": "FA21",
+      "name": "FA21",
+      "DrugLikeScore": 0.86,
+      "QED": 0.841,
+      "SAscore": 2.57
+    },
+    {
+      "rank": 3,
+      "id": "FA22",
+      "name": "FA22",
+      "DrugLikeScore": 0.86,
+      "QED": 0.837,
+      "SAscore": 2.51
+    },
+    {
+      "rank": 4,
+      "id": "FA20",
+      "name": "FA20",
+      "DrugLikeScore": 0.849,
+      "QED": 0.824,
+      "SAscore": 2.64
+    },
+    {
+      "rank": 5,
+      "id": "FA1",
+      "name": "FA1",
+      "DrugLikeScore": 0.848,
+      "QED": 0.764,
+      "SAscore": 1.67
+    }
+  ]
+}

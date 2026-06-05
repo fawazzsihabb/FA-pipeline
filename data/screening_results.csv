@@ -1,0 +1,26 @@
+rank,id,name,klass,smiles,formula,MW,LogP,HBD,HBA,TPSA,RotB,AromRings,FractionCSP3,MolarRefr,HeavyAtoms,QED,SAscore,SynthEase,Lipinski_violations,Veber_pass,Egan_pass,PAINS_alerts,Brenk_alerts,Sim_celecoxib,pass_prefilter,DrugLikeScore,is_lead,is_reference
+1.0,FA23,FA23,Benzoxazine derivative,COc1cc(/C=C/C(=O)O)cc2c1OCN(c1ccccc1)C2,C18H17NO4,311.34,3.15,1,4,59.0,4,2,0.167,87.8,23,0.879,2.32,0.853,0,True,True,0,1,0.117,True,0.889,False,False
+2.0,FA21,FA21,Benzoxazine derivative,CCN1COc2c(cc(/C=C/C(=O)O)cc2OC)C1,C14H17NO4,263.29,1.96,1,4,59.0,4,1,0.357,71.2,19,0.841,2.57,0.826,0,True,True,0,1,0.091,True,0.86,False,False
+3.0,FA22,FA22,Benzoxazine derivative,CCCN1COc2c(cc(/C=C/C(=O)O)cc2OC)C1,C15H19NO4,277.32,2.35,1,4,59.0,5,1,0.4,75.9,20,0.837,2.51,0.832,0,True,True,0,1,0.089,True,0.86,False,False
+4.0,FA20,FA20,Benzoxazine derivative,COc1cc(/C=C/C(=O)O)cc2c1OCN(C)C2,C13H15NO4,249.27,1.57,1,4,59.0,3,1,0.308,66.6,18,0.824,2.64,0.818,0,True,True,0,1,0.11,True,0.849,False,False
+5.0,FA1,FA1,Hydrocinnamic acid derivative,COc1cc(CCC(=O)O)ccc1O,C10H12O4,196.2,1.42,2,3,66.8,4,1,0.3,50.6,14,0.764,1.67,0.926,0,True,True,0,0,0.111,True,0.848,False,False
+6.0,FA3,FA3,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1O,C10H10O4,194.19,1.5,2,3,66.8,3,1,0.1,51.3,14,0.715,1.87,0.903,0,True,True,0,1,0.111,True,0.814,False,False
+7.0,FA6,FA6,Cinnamic acid derivative,CCCOC(=O)/C=C/c1ccc(O)c(OC)c1,C13H16O4,236.27,2.37,1,4,55.8,5,1,0.308,64.9,17,0.63,1.97,0.892,0,True,True,0,1,0.1,True,0.764,False,False
+8.0,FA5,FA5,Cinnamic acid derivative,CCOC(=O)/C=C/c1ccc(O)c(OC)c1,C12H14O4,222.24,1.98,1,4,55.8,4,1,0.25,60.3,16,0.625,1.89,0.901,0,True,True,0,1,0.119,True,0.764,False,False
+9.0,FA4,FA4,Cinnamic acid derivative,COC(=O)/C=C/c1ccc(O)c(OC)c1,C11H12O4,208.21,1.59,1,4,55.8,3,1,0.182,55.7,15,0.605,1.91,0.899,0,True,True,0,1,0.109,True,0.752,False,False
+10.0,FA9,FA9,Cinnamic acid derivative,COC(=O)/C=C/c1ccc(OC)c(OC)c1,C12H14O4,222.24,1.89,0,4,44.8,4,1,0.25,60.6,16,0.576,1.74,0.918,0,True,True,0,1,0.095,True,0.742,False,False
+11.0,FA24,FA24,Benzoxazine derivative,COc1cc(/C=C/C(=O)O)cc2c1OCN(c1ccc(C)cc1)C2,C19H19NO4,325.36,3.46,1,4,59.0,4,2,0.211,92.5,24,0.873,2.37,0.848,0,True,True,1,1,0.189,False,0.735,False,False
+12.0,FA16,FA16,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1OC(=O)c1ccccc1,C17H14O5,298.29,3.01,1,4,72.8,5,2,0.059,81.1,22,0.522,1.79,0.912,0,True,True,0,2,0.085,True,0.711,False,False
+13.0,FA18,FA18,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1OC(=O)c1ccc(C)cc1,C18H16O5,312.32,3.32,1,4,72.8,5,2,0.111,85.8,23,0.521,1.84,0.907,0,True,True,0,2,0.145,True,0.709,False,False
+14.0,FA17,FA17,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1OC(=O)c1ccc(Cl)cc1,C17H13ClO5,332.74,3.67,1,4,72.8,5,2,0.059,86.1,23,0.514,1.85,0.906,0,True,True,0,2,0.081,True,0.704,False,False
+15.0,FA19,FA19,Cinnamic acid derivative,COc1ccc(C(=O)Oc2ccc(/C=C/C(=O)O)cc2OC)cc1,C18H16O6,328.32,3.02,1,5,82.1,6,2,0.111,87.6,24,0.499,1.85,0.906,0,True,True,0,2,0.082,True,0.696,True,False
+16.0,FA11,FA11,Cinnamic acid derivative,CC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC(C)=O,C13H12O6,264.23,1.64,1,5,89.9,4,1,0.154,65.7,19,0.505,2.1,0.878,0,True,True,0,2,0.094,True,0.691,False,False
+17.0,FA10,FA10,Cinnamic acid derivative,COc1cc(/C=C/C(=O)O)ccc1OC(C)=O,C12H12O5,236.22,1.72,1,4,72.8,4,1,0.167,61.0,17,0.489,1.9,0.9,0,True,True,0,2,0.09,True,0.689,False,False
+18.0,FA12,FA12,Cinnamic acid derivative,CCC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC,C13H14O5,250.25,2.11,1,4,72.8,5,1,0.231,65.6,18,0.492,2.0,0.889,0,True,True,0,2,0.086,True,0.687,False,False
+19.0,FA13,FA13,Cinnamic acid derivative,CCCC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC,C14H16O5,264.28,2.5,1,4,72.8,6,1,0.286,70.2,19,0.485,2.0,0.889,0,True,True,0,2,0.083,True,0.683,False,False
+20.0,FA7,FA7,Cinnamic acid derivative,CCCCOC(=O)/C=C/c1ccc(O)c(OC)c1,C14H18O4,250.29,2.76,1,4,55.8,6,1,0.357,69.6,18,0.479,1.96,0.893,0,True,True,0,2,0.097,True,0.681,False,False
+21.0,FA14,FA14,Cinnamic acid derivative,CCCCC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC,C15H18O5,278.3,2.89,1,4,72.8,7,1,0.333,74.8,20,0.471,1.98,0.891,0,True,True,0,2,0.096,True,0.676,False,False
+22.0,FA8,FA8,Cinnamic acid derivative,CCCCCOC(=O)/C=C/c1ccc(O)c(OC)c1,C15H20O4,264.32,3.15,1,4,55.8,7,1,0.4,74.2,19,0.467,1.96,0.893,0,True,True,0,2,0.096,True,0.675,False,False
+23.0,FA15,FA15,Cinnamic acid derivative,CCCCCC(=O)Oc1ccc(/C=C/C(=O)O)cc1OC,C16H20O5,292.33,3.28,1,4,72.8,8,1,0.375,79.4,21,0.344,1.98,0.891,0,True,True,0,3,0.095,True,0.606,False,False
+24.0,FA2,FA2,Cinnamic acid derivative,O=C(O)/C=C/c1ccc(O)c(O)c1,C9H8O4,180.16,1.2,3,3,77.8,2,1,0.0,46.4,13,0.472,2.04,0.884,0,True,True,1,2,0.103,False,0.525,False,False
+,CELECOXIB,Celecoxib (COX-2 ref),reference,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,C17H14F3N3O2S,381.38,3.51,1,3,78.0,3,3,0.118,90.1,26,0.754,2.14,,0,True,True,0,0,1.0,,,,True
